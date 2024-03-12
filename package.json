@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
-    "startServer": "webpack-dev-server --open"
+    "startServer": "webpack-dev-server --progress --hot"
   },
   "keywords": [],
   "author": "Hrid1402",
